@@ -34,7 +34,7 @@ Have FUN
        >   ```
        
        >     ``` 
-       >       fmt.Fprintf(w, "<h1>This is the Bj in dev branch. Try /hello and /hello/Sammy\n</h1>")
+       >       fmt.Fprintf(w, "<h1>This is the Bj in bj branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
       
     - [ ] Create a pull request for the adrian branch with the main repo
