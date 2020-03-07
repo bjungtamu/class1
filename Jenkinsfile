@@ -1,6 +1,6 @@
 node {
     def app
-    def port = "9442"
+    def port = "9440"
     def local = "127.0.0.1"
     def current 
     def branchName
