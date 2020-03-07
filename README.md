@@ -23,3 +23,20 @@ specific instruction on what they need to. Once done push it to your own git and
 **siknucha** will notify you of the build. If no notifications on your branch than you must be missing something.
 
 Have FUN
+
+## Exercise
+
+   - [ ] Fork the repository jungeebah/class1 from https://github.com/jungeebah/class1
+   - [ ] Make changes to the main.go page by 
+            
+       >     ``` 
+       >       fmt.Fprintf(w, "<h1>This is the siknucha in dev branch. Try /hello and /hello/Sammy\n</h1>")
+       >   ```
+       
+       >     ``` 
+       >       fmt.Fprintf(w, "<h1>This is the Adrian in dev branch. Try /hello and /hello/Sammy\n</h1>")
+       >   ```
+      
+    - [ ] Create a pull request for the adrian branch with the main repo
+    - [ ] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion
+    
