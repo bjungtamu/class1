@@ -3,10 +3,14 @@ node {
     def port = "9442"
     def local = "127.0.0.1"
     def current 
+    def branchName
+    def slackResponse = slackSend(channel: "website", message: "Hey Slackers the below build is building")
     stage('Clone repository') {
         /* Let's make sure we have the repository cloned to our workspace */
 
-        checkout scm
+        def scmVars = checkout scm
+        branchName = scmVars.GIT_BRANCH
+        echo "$branchName"
     }
 
     stage('Build image') {
@@ -30,8 +34,8 @@ node {
             }
            echo "$value"
         }
-        echo "$c"
-        echo "$currentBuild.result"	
+        echo "$current"	
+	slackSend(channel: slackResponse.threadId, message: "The branch $BRANCH_NAME is building now for $branchName")
     }
 
     stage('Push image') {
