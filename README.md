@@ -31,3 +31,16 @@ specific instruction on what they need to. Once done push it to your own git and
 **siknucha** will notify you of the build. If no notifications on your branch than you must be missing something.
 
 Have FUN
+
+
+## Learning Path
+
+  - [ ] Work on git collaboration
+    * [ ] Learn how to copy someone's else work (**forking)
+    * [ ] Learn to make changes to the code (**change,commit,push**)
+    * [ ] Learn to Integrate with the main repo
+    
+  - [ ] Making your own repo
+    * [ ] Learn to setup git and github connection in your computer
+    * [ ] Learn to create a repo and create it's end connection in github
+    * [ ] Make changes locally in your computer and push it to github
