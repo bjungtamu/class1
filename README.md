@@ -15,6 +15,14 @@ tool and GitHub as end point
   - Computer
   - Mood to learn 
   
+  
+## Components
+
+The Repo (**repository** - the content of the git ) consists of three main file. 
+  - Dockerfile: This is a container ( code base to package the code). This will be touched later if we have time 
+  - Jenkinsfile: This will be used to build your code. This will be touched later too
+  - main.go: A simple web package written in go. This will be used an example of a software tool written by you. Code really doesnt matter as of now.
+  
 ## First step
 
 This is the command collabroative repo that everyone will be working of against. I will dedicate a branch (think it as your own channel)
