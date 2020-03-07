@@ -4,7 +4,7 @@ node {
     def local = "127.0.0.1"
     def current 
     def branchName
-    def slackResponse = slackSend(channel: "website", message: "Hey Slackers the below build is building")
+    def slackResponse = slackSend(channel: "siknucha", message: "Hey Slackers the below build is building")
     stage('Clone repository') {
         /* Let's make sure we have the repository cloned to our workspace */
 
