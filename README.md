@@ -27,13 +27,13 @@ Have FUN
 ## Exercise
 
    - [ ] Fork the repository jungeebah/class1 from https://github.com/jungeebah/class1
-   - [ ] Make changes to the main.go page by 
+   - [ ] Make changes to the main.go page by changing the following lines from
             
-       >     ``` 
+       >   ``` 
        >       fmt.Fprintf(w, "<h1>This is the siknucha in dev branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
-       
-       >     ``` 
+       to this
+       >  ``` 
        >       fmt.Fprintf(w, "<h1>This is the Deepak in deepak branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
       
