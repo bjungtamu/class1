@@ -34,7 +34,7 @@ Have FUN
        >   ```
        to this
        >   ``` 
-       >       fmt.Fprintf(w, "<h1>This is the Kopila in kopila branch. Try /hello and /hello/Sammy\n</h1>")
+       >       fmt.Fprintf(w, "<h1>This is the siknucha in siknucha branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
       
     - [ ] Create a pull request for the adrian branch with the main repo
