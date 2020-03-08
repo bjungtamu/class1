@@ -26,8 +26,8 @@ Have FUN
 
 ## Exercise
 
-   - [ ] Fork the repository jungeebah/class1 from https://github.com/jungeebah/class1
-   - [ ] Make changes to the main.go page by changing lines from 
+   - [x] Fork the repository jungeebah/class1 from https://github.com/jungeebah/class1
+   - [x] Make changes to the main.go page by changing lines from 
             
        >   ``` 
        >       fmt.Fprintf(w, "<h1>This is the siknucha in dev branch. Try /hello and /hello/Sammy\n</h1>")
@@ -37,5 +37,5 @@ Have FUN
        >       fmt.Fprintf(w, "<h1>This is the Arjun in arjun branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
       
-    - [ ] Create a pull request for the adrian branch with the main repo
-    - [ ] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion
+    - [x] Create a pull request for the adrian branch with the main repo
+    - [x] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion
