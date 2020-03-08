@@ -38,4 +38,4 @@ Have FUN
        >   ```
       
     - [ ] Create a pull request for the siknucha branch with the main repo
-    - [ ] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion
+    - [ ] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion.
