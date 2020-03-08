@@ -20,7 +20,7 @@ tool and GitHub as end point
 This is the command collabroative repo that everyone will be working of against. I will dedicate a branch (think it as your own channel)
 for everone in the class so make sure to make changes in your branch and push it to it. Coming ( A todo video). Every branch will have 
 specific instruction on what they need to. Once done push it to your own git and then merge with the branch. At this point slack channel
-**siknucha** will notify you of the build. If no notifications on your branch than you must be missing something.
+**siknucha** will notify you of the build. If no notifications on your branch than you must be missing something..
 
 Have FUN
 
