@@ -9,6 +9,7 @@ node {
         /* Let's make sure we have the repository cloned to our workspace */
 
         def scmVars = checkout scm
+	echo "$scmVars"
         branchName = scmVars.GIT_BRANCH
         echo "$branchName"
     }
