@@ -37,5 +37,5 @@ Have FUN
        >       fmt.Fprintf(w, "<h1>This is the siknucha in siknucha branch. Try /hello and /hello/Sammy\n</h1>")
        >   ```
       
-    - [ ] Create a pull request for the adrian branch with the main repo
+    - [ ] Create a pull request for the siknucha branch with the main repo
     - [ ] Once done edit the Readme.md file and put cross in [ ] spaces on all the above tasks for completion
